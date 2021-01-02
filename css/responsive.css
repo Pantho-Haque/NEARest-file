@@ -1,0 +1,17 @@
+
+@media(max-width: 767px){
+	.menubar-social-icons{
+		margin-top: -30px;
+		float: right;
+	}
+	.menubar-anc{
+		margin-left: 10px;
+	}
+	.nav-collapse-button{
+		margin-left: 13px;
+		margin-top: -7px;
+	}
+	.navbar-toggler-icon{
+		width: 19px;
+	}
+}
